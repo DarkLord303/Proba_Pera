@@ -1,0 +1,15 @@
+G:\Proba_pera\Proba _2\bin\Debug\net7.0\Proba _2.exe
+G:\Proba_pera\Proba _2\bin\Debug\net7.0\Proba _2.deps.json
+G:\Proba_pera\Proba _2\bin\Debug\net7.0\Proba _2.runtimeconfig.json
+G:\Proba_pera\Proba _2\bin\Debug\net7.0\Proba _2.dll
+G:\Proba_pera\Proba _2\bin\Debug\net7.0\Proba _2.pdb
+G:\Proba_pera\Proba _2\obj\Debug\net7.0\Proba _2.csproj.AssemblyReference.cache
+G:\Proba_pera\Proba _2\obj\Debug\net7.0\Proba _2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Proba_pera\Proba _2\obj\Debug\net7.0\Proba _2.AssemblyInfoInputs.cache
+G:\Proba_pera\Proba _2\obj\Debug\net7.0\Proba _2.AssemblyInfo.cs
+G:\Proba_pera\Proba _2\obj\Debug\net7.0\Proba _2.csproj.CoreCompileInputs.cache
+G:\Proba_pera\Proba _2\obj\Debug\net7.0\Proba _2.dll
+G:\Proba_pera\Proba _2\obj\Debug\net7.0\refint\Proba _2.dll
+G:\Proba_pera\Proba _2\obj\Debug\net7.0\Proba _2.pdb
+G:\Proba_pera\Proba _2\obj\Debug\net7.0\Proba _2.genruntimeconfig.cache
+G:\Proba_pera\Proba _2\obj\Debug\net7.0\ref\Proba _2.dll
